@@ -45,7 +45,7 @@ permalink: /2016/groups/
 |:-------------|:-------------|:-----|:-----|
 |5|李杨|2120151007| https://github.com/absurdliyang/DataMiningCourseProject
 |5|魏思杰|2120151046|
-|5|李苏畅|3120150419|
+|5|李苏畅|3120150419| https://github.com/fdfdfd123/homework1
 |5|罗伟|2120151020|
 
 > N-gram based input text predictor
